@@ -1,0 +1,1115 @@
+{
+ "_help": "boards = Indian company career pages JobPilot reads directly (Greenhouse / Lever public APIs). slug is the part after boards.greenhouse.io/ or jobs.lever.co/. Wrong slugs are skipped silently, so add or remove freely. classify = name fragment -> [tier, type]. Unlisted companies are tier3 / unknown type and pass every type filter.",
+ "boards": [
+  {
+   "name": "Razorpay",
+   "ats": "greenhouse",
+   "slug": "razorpaysoftwareprivatelimited"
+  },
+  {
+   "name": "CRED",
+   "ats": "lever",
+   "slug": "cred"
+  },
+  {
+   "name": "Meesho",
+   "ats": "lever",
+   "slug": "meesho"
+  },
+  {
+   "name": "Paytm",
+   "ats": "lever",
+   "slug": "paytm"
+  },
+  {
+   "name": "Groww",
+   "ats": "greenhouse",
+   "slug": "groww"
+  },
+  {
+   "name": "Postman",
+   "ats": "greenhouse",
+   "slug": "postman"
+  },
+  {
+   "name": "BrowserStack",
+   "ats": "greenhouse",
+   "slug": "browserstack"
+  },
+  {
+   "name": "Dream11",
+   "ats": "greenhouse",
+   "slug": "dreamsports"
+  },
+  {
+   "name": "Sharechat",
+   "ats": "lever",
+   "slug": "sharechat"
+  },
+  {
+   "name": "Slice",
+   "ats": "lever",
+   "slug": "sliceit"
+  },
+  {
+   "name": "Zeta",
+   "ats": "lever",
+   "slug": "zeta"
+  },
+  {
+   "name": "Jar",
+   "ats": "lever",
+   "slug": "jar-app"
+  },
+  {
+   "name": "Licious",
+   "ats": "lever",
+   "slug": "licious"
+  },
+  {
+   "name": "Lenskart",
+   "ats": "lever",
+   "slug": "lenskart"
+  },
+  {
+   "name": "Urban Company",
+   "ats": "lever",
+   "slug": "urbancompany"
+  },
+  {
+   "name": "Zepto",
+   "ats": "lever",
+   "slug": "zepto"
+  },
+  {
+   "name": "Rapido",
+   "ats": "lever",
+   "slug": "rapido"
+  },
+  {
+   "name": "Ola",
+   "ats": "lever",
+   "slug": "olacabs"
+  },
+  {
+   "name": "InMobi",
+   "ats": "greenhouse",
+   "slug": "inmobi"
+  },
+  {
+   "name": "Whatfix",
+   "ats": "greenhouse",
+   "slug": "whatfix"
+  },
+  {
+   "name": "Chargebee",
+   "ats": "greenhouse",
+   "slug": "chargebee"
+  },
+  {
+   "name": "Clevertap",
+   "ats": "greenhouse",
+   "slug": "clevertap"
+  },
+  {
+   "name": "Juspay",
+   "ats": "lever",
+   "slug": "juspay"
+  },
+  {
+   "name": "PhonePe",
+   "ats": "lever",
+   "slug": "phonepe"
+  },
+  {
+   "name": "Swiggy",
+   "ats": "lever",
+   "slug": "swiggy"
+  },
+  {
+   "name": "Zomato",
+   "ats": "lever",
+   "slug": "zomato"
+  },
+  {
+   "name": "Freshworks",
+   "ats": "greenhouse",
+   "slug": "freshworks"
+  },
+  {
+   "name": "Hasura",
+   "ats": "greenhouse",
+   "slug": "hasura"
+  },
+  {
+   "name": "Druva",
+   "ats": "greenhouse",
+   "slug": "druva"
+  },
+  {
+   "name": "Unacademy",
+   "ats": "lever",
+   "slug": "unacademy"
+  },
+  {
+   "name": "Udaan",
+   "ats": "lever",
+   "slug": "udaan"
+  },
+  {
+   "name": "Upstox",
+   "ats": "lever",
+   "slug": "upstox"
+  },
+  {
+   "name": "Cashfree",
+   "ats": "lever",
+   "slug": "cashfree"
+  },
+  {
+   "name": "Gupshup",
+   "ats": "lever",
+   "slug": "gupshup"
+  },
+  {
+   "name": "Yellow.ai",
+   "ats": "lever",
+   "slug": "yellow"
+  },
+  {
+   "name": "MoEngage",
+   "ats": "greenhouse",
+   "slug": "moengage"
+  },
+  {
+   "name": "WebEngage",
+   "ats": "lever",
+   "slug": "webengage"
+  },
+  {
+   "name": "Exotel",
+   "ats": "lever",
+   "slug": "exotel"
+  },
+  {
+   "name": "Haptik",
+   "ats": "lever",
+   "slug": "haptik"
+  },
+  {
+   "name": "Perfios",
+   "ats": "lever",
+   "slug": "perfios"
+  },
+  {
+   "name": "Signzy",
+   "ats": "lever",
+   "slug": "signzy"
+  },
+  {
+   "name": "HyperVerge",
+   "ats": "lever",
+   "slug": "hyperverge"
+  },
+  {
+   "name": "IDfy",
+   "ats": "lever",
+   "slug": "idfy"
+  },
+  {
+   "name": "BharatPe",
+   "ats": "lever",
+   "slug": "bharatpe"
+  },
+  {
+   "name": "MobiKwik",
+   "ats": "lever",
+   "slug": "mobikwik"
+  },
+  {
+   "name": "Pine Labs",
+   "ats": "lever",
+   "slug": "pinelabs"
+  },
+  {
+   "name": "Smallcase",
+   "ats": "lever",
+   "slug": "smallcase"
+  },
+  {
+   "name": "Angel One",
+   "ats": "lever",
+   "slug": "angelone"
+  },
+  {
+   "name": "5paisa",
+   "ats": "lever",
+   "slug": "5paisa"
+  },
+  {
+   "name": "Biocon",
+   "ats": "lever",
+   "slug": "biocon"
+  },
+  {
+   "name": "Syngene",
+   "ats": "lever",
+   "slug": "syngene"
+  },
+  {
+   "name": "Atlassian",
+   "ats": "greenhouse",
+   "slug": "atlassian"
+  },
+  {
+   "name": "Stripe",
+   "ats": "greenhouse",
+   "slug": "stripe"
+  },
+  {
+   "name": "Databricks",
+   "ats": "greenhouse",
+   "slug": "databricks"
+  },
+  {
+   "name": "Snowflake",
+   "ats": "greenhouse",
+   "slug": "snowflake"
+  },
+  {
+   "name": "Cloudflare",
+   "ats": "greenhouse",
+   "slug": "cloudflare"
+  },
+  {
+   "name": "MongoDB",
+   "ats": "greenhouse",
+   "slug": "mongodb"
+  },
+  {
+   "name": "Elastic",
+   "ats": "greenhouse",
+   "slug": "elastic"
+  },
+  {
+   "name": "Okta",
+   "ats": "greenhouse",
+   "slug": "okta"
+  },
+  {
+   "name": "Twilio",
+   "ats": "greenhouse",
+   "slug": "twilio"
+  },
+  {
+   "name": "Shopify",
+   "ats": "greenhouse",
+   "slug": "shopify"
+  },
+  {
+   "name": "Airbnb",
+   "ats": "greenhouse",
+   "slug": "airbnb"
+  },
+  {
+   "name": "Uber",
+   "ats": "greenhouse",
+   "slug": "uber"
+  },
+  {
+   "name": "Notion",
+   "ats": "greenhouse",
+   "slug": "notion"
+  },
+  {
+   "name": "Figma",
+   "ats": "greenhouse",
+   "slug": "figma"
+  },
+  {
+   "name": "Canva",
+   "ats": "greenhouse",
+   "slug": "canva"
+  },
+  {
+   "name": "Grammarly",
+   "ats": "greenhouse",
+   "slug": "grammarly"
+  },
+  {
+   "name": "Spotify",
+   "ats": "greenhouse",
+   "slug": "spotify"
+  },
+  {
+   "name": "Dropbox",
+   "ats": "greenhouse",
+   "slug": "dropbox"
+  },
+  {
+   "name": "Slack",
+   "ats": "greenhouse",
+   "slug": "slack"
+  },
+  {
+   "name": "Zoom",
+   "ats": "greenhouse",
+   "slug": "zoom"
+  },
+  {
+   "name": "DocuSign",
+   "ats": "greenhouse",
+   "slug": "docusign"
+  },
+  {
+   "name": "ServiceNow",
+   "ats": "greenhouse",
+   "slug": "servicenow"
+  },
+  {
+   "name": "Datadog",
+   "ats": "greenhouse",
+   "slug": "datadog"
+  },
+  {
+   "name": "New Relic",
+   "ats": "greenhouse",
+   "slug": "newrelic"
+  },
+  {
+   "name": "HubSpot",
+   "ats": "greenhouse",
+   "slug": "hubspot"
+  },
+  {
+   "name": "Zendesk",
+   "ats": "greenhouse",
+   "slug": "zendesk"
+  },
+  {
+   "name": "Intercom",
+   "ats": "greenhouse",
+   "slug": "intercom"
+  },
+  {
+   "name": "Mixpanel",
+   "ats": "greenhouse",
+   "slug": "mixpanel"
+  },
+  {
+   "name": "Amplitude",
+   "ats": "greenhouse",
+   "slug": "amplitude"
+  },
+  {
+   "name": "Segment",
+   "ats": "greenhouse",
+   "slug": "segment"
+  },
+  {
+   "name": "Braze",
+   "ats": "greenhouse",
+   "slug": "braze"
+  },
+  {
+   "name": "PagerDuty",
+   "ats": "greenhouse",
+   "slug": "pagerduty"
+  },
+  {
+   "name": "LaunchDarkly",
+   "ats": "greenhouse",
+   "slug": "launchdarkly"
+  },
+  {
+   "name": "HashiCorp",
+   "ats": "greenhouse",
+   "slug": "hashicorp"
+  },
+  {
+   "name": "GitLab",
+   "ats": "greenhouse",
+   "slug": "gitlab"
+  },
+  {
+   "name": "Vercel",
+   "ats": "ashby",
+   "slug": "vercel"
+  },
+  {
+   "name": "Linear",
+   "ats": "ashby",
+   "slug": "linear"
+  },
+  {
+   "name": "Retool",
+   "ats": "ashby",
+   "slug": "retool"
+  },
+  {
+   "name": "Supabase",
+   "ats": "ashby",
+   "slug": "supabase"
+  },
+  {
+   "name": "PlanetScale",
+   "ats": "ashby",
+   "slug": "planetscale"
+  },
+  {
+   "name": "Render",
+   "ats": "ashby",
+   "slug": "render"
+  },
+  {
+   "name": "Perplexity",
+   "ats": "ashby",
+   "slug": "perplexityai"
+  },
+  {
+   "name": "Rippling",
+   "ats": "greenhouse",
+   "slug": "rippling"
+  },
+  {
+   "name": "Gusto",
+   "ats": "greenhouse",
+   "slug": "gusto"
+  },
+  {
+   "name": "Lattice",
+   "ats": "greenhouse",
+   "slug": "lattice"
+  },
+  {
+   "name": "Asana",
+   "ats": "greenhouse",
+   "slug": "asana"
+  },
+  {
+   "name": "Airtable",
+   "ats": "greenhouse",
+   "slug": "airtable"
+  },
+  {
+   "name": "Coinbase",
+   "ats": "greenhouse",
+   "slug": "coinbase"
+  },
+  {
+   "name": "Plaid",
+   "ats": "greenhouse",
+   "slug": "plaid"
+  },
+  {
+   "name": "Brex",
+   "ats": "greenhouse",
+   "slug": "brex"
+  },
+  {
+   "name": "Ramp",
+   "ats": "greenhouse",
+   "slug": "ramp"
+  },
+  {
+   "name": "Fivetran",
+   "ats": "greenhouse",
+   "slug": "fivetran"
+  },
+  {
+   "name": "dbt Labs",
+   "ats": "greenhouse",
+   "slug": "dbtlabs"
+  },
+  {
+   "name": "Airbyte",
+   "ats": "greenhouse",
+   "slug": "airbyte"
+  },
+  {
+   "name": "Snyk",
+   "ats": "greenhouse",
+   "slug": "snyk"
+  },
+  {
+   "name": "Wiz",
+   "ats": "greenhouse",
+   "slug": "wiz"
+  },
+  {
+   "name": "CrowdStrike",
+   "ats": "greenhouse",
+   "slug": "crowdstrike"
+  },
+  {
+   "name": "Palo Alto Networks",
+   "ats": "greenhouse",
+   "slug": "paloaltonetworks"
+  },
+  {
+   "name": "Zscaler",
+   "ats": "greenhouse",
+   "slug": "zscaler"
+  },
+  {
+   "name": "DigitalOcean",
+   "ats": "greenhouse",
+   "slug": "digitalocean"
+  },
+  {
+   "name": "Cockroach Labs",
+   "ats": "greenhouse",
+   "slug": "cockroachlabs"
+  },
+  {
+   "name": "ClickHouse",
+   "ats": "greenhouse",
+   "slug": "clickhouse"
+  },
+  {
+   "name": "Grafana Labs",
+   "ats": "greenhouse",
+   "slug": "grafanalabs"
+  },
+  {
+   "name": "Splunk",
+   "ats": "greenhouse",
+   "slug": "splunk"
+  },
+  {
+   "name": "1Password",
+   "ats": "greenhouse",
+   "slug": "1password"
+  },
+  {
+   "name": "Duolingo",
+   "ats": "greenhouse",
+   "slug": "duolingo"
+  },
+  {
+   "name": "OpenAI",
+   "ats": "greenhouse",
+   "slug": "openai"
+  },
+  {
+   "name": "Anthropic",
+   "ats": "greenhouse",
+   "slug": "anthropic"
+  },
+  {
+   "name": "Hugging Face",
+   "ats": "greenhouse",
+   "slug": "huggingface"
+  }
+ ],
+ "classify": {
+  "google": [
+   "tier1",
+   "mnc"
+  ],
+  "microsoft": [
+   "tier1",
+   "mnc"
+  ],
+  "amazon": [
+   "tier1",
+   "mnc"
+  ],
+  "aws": [
+   "tier1",
+   "mnc"
+  ],
+  "apple": [
+   "tier1",
+   "mnc"
+  ],
+  "meta": [
+   "tier1",
+   "mnc"
+  ],
+  "adobe": [
+   "tier1",
+   "mnc"
+  ],
+  "oracle": [
+   "tier1",
+   "mnc"
+  ],
+  "salesforce": [
+   "tier1",
+   "mnc"
+  ],
+  "ibm": [
+   "tier1",
+   "mnc"
+  ],
+  "sap": [
+   "tier1",
+   "mnc"
+  ],
+  "cisco": [
+   "tier1",
+   "mnc"
+  ],
+  "intel": [
+   "tier1",
+   "mnc"
+  ],
+  "nvidia": [
+   "tier1",
+   "mnc"
+  ],
+  "tata consultancy": [
+   "tier1",
+   "mnc"
+  ],
+  "tcs": [
+   "tier1",
+   "mnc"
+  ],
+  "infosys": [
+   "tier1",
+   "mnc"
+  ],
+  "wipro": [
+   "tier1",
+   "mnc"
+  ],
+  "hcl": [
+   "tier1",
+   "mnc"
+  ],
+  "accenture": [
+   "tier1",
+   "mnc"
+  ],
+  "cognizant": [
+   "tier1",
+   "mnc"
+  ],
+  "capgemini": [
+   "tier1",
+   "mnc"
+  ],
+  "tech mahindra": [
+   "tier1",
+   "mnc"
+  ],
+  "deloitte": [
+   "tier1",
+   "mnc"
+  ],
+  "kpmg": [
+   "tier1",
+   "mnc"
+  ],
+  "pwc": [
+   "tier1",
+   "mnc"
+  ],
+  "ernst": [
+   "tier1",
+   "mnc"
+  ],
+  "dell": [
+   "tier1",
+   "mnc"
+  ],
+  "vmware": [
+   "tier1",
+   "mnc"
+  ],
+  "zoho": [
+   "tier2",
+   "product"
+  ],
+  "freshworks": [
+   "tier2",
+   "product"
+  ],
+  "flipkart": [
+   "tier2",
+   "product"
+  ],
+  "swiggy": [
+   "tier2",
+   "startup"
+  ],
+  "zomato": [
+   "tier2",
+   "startup"
+  ],
+  "phonepe": [
+   "tier2",
+   "startup"
+  ],
+  "paytm": [
+   "tier2",
+   "startup"
+  ],
+  "razorpay": [
+   "tier2",
+   "startup"
+  ],
+  "cred": [
+   "tier2",
+   "startup"
+  ],
+  "meesho": [
+   "tier2",
+   "startup"
+  ],
+  "ltimindtree": [
+   "tier2",
+   "mnc"
+  ],
+  "mphasis": [
+   "tier2",
+   "mnc"
+  ],
+  "hexaware": [
+   "tier2",
+   "mnc"
+  ],
+  "persistent": [
+   "tier2",
+   "mnc"
+  ],
+  "zensar": [
+   "tier2",
+   "mnc"
+  ],
+  "cyient": [
+   "tier2",
+   "mnc"
+  ],
+  "groww": [
+   "tier2",
+   "startup"
+  ],
+  "zepto": [
+   "tier2",
+   "startup"
+  ],
+  "lenskart": [
+   "tier2",
+   "product"
+  ],
+  "ola": [
+   "tier2",
+   "startup"
+  ],
+  "juspay": [
+   "tier2",
+   "product"
+  ],
+  "postman": [
+   "tier2",
+   "product"
+  ],
+  "browserstack": [
+   "tier2",
+   "product"
+  ],
+  "inmobi": [
+   "tier2",
+   "product"
+  ],
+  "chargebee": [
+   "tier2",
+   "product"
+  ],
+  "whatfix": [
+   "tier2",
+   "product"
+  ],
+  "clevertap": [
+   "tier2",
+   "product"
+  ],
+  "hdfc": [
+   "tier1",
+   "mnc"
+  ],
+  "icici": [
+   "tier1",
+   "mnc"
+  ],
+  "axis bank": [
+   "tier1",
+   "mnc"
+  ],
+  "l&t": [
+   "tier1",
+   "mnc"
+  ],
+  "larsen": [
+   "tier1",
+   "mnc"
+  ],
+  "ust": [
+   "tier2",
+   "service"
+  ],
+  "virtusa": [
+   "tier2",
+   "service"
+  ],
+  "ness": [
+   "tier2",
+   "service"
+  ],
+  "sutherland": [
+   "tier2",
+   "service"
+  ],
+  "hcltech": [
+   "tier1",
+   "mnc"
+  ],
+  "genpact": [
+   "tier1",
+   "mnc"
+  ],
+  "bosch": [
+   "tier1",
+   "mnc"
+  ],
+  "siemens": [
+   "tier1",
+   "mnc"
+  ],
+  "honeywell": [
+   "tier1",
+   "mnc"
+  ],
+  "kaar": [
+   "tier3",
+   "service"
+  ],
+  "aspire systems": [
+   "tier2",
+   "service"
+  ],
+  "saksoft": [
+   "tier3",
+   "service"
+  ],
+  "nielsen": [
+   "tier1",
+   "mnc"
+  ],
+  "atlassian": [
+   "tier1",
+   "mnc"
+  ],
+  "stripe": [
+   "tier1",
+   "mnc"
+  ],
+  "databricks": [
+   "tier1",
+   "mnc"
+  ],
+  "snowflake": [
+   "tier1",
+   "mnc"
+  ],
+  "cloudflare": [
+   "tier1",
+   "mnc"
+  ],
+  "mongodb": [
+   "tier1",
+   "mnc"
+  ],
+  "elastic": [
+   "tier1",
+   "mnc"
+  ],
+  "okta": [
+   "tier1",
+   "mnc"
+  ],
+  "twilio": [
+   "tier1",
+   "mnc"
+  ],
+  "shopify": [
+   "tier1",
+   "mnc"
+  ],
+  "airbnb": [
+   "tier1",
+   "mnc"
+  ],
+  "uber": [
+   "tier1",
+   "mnc"
+  ],
+  "notion": [
+   "tier2",
+   "product"
+  ],
+  "figma": [
+   "tier2",
+   "product"
+  ],
+  "canva": [
+   "tier2",
+   "product"
+  ],
+  "grammarly": [
+   "tier2",
+   "product"
+  ],
+  "spotify": [
+   "tier1",
+   "mnc"
+  ],
+  "dropbox": [
+   "tier1",
+   "mnc"
+  ],
+  "slack": [
+   "tier1",
+   "mnc"
+  ],
+  "zoom": [
+   "tier1",
+   "mnc"
+  ],
+  "docusign": [
+   "tier1",
+   "mnc"
+  ],
+  "servicenow": [
+   "tier1",
+   "mnc"
+  ],
+  "datadog": [
+   "tier1",
+   "mnc"
+  ],
+  "new relic": [
+   "tier1",
+   "mnc"
+  ],
+  "hubspot": [
+   "tier1",
+   "mnc"
+  ],
+  "zendesk": [
+   "tier1",
+   "mnc"
+  ],
+  "intercom": [
+   "tier2",
+   "product"
+  ],
+  "mixpanel": [
+   "tier2",
+   "product"
+  ],
+  "amplitude": [
+   "tier2",
+   "product"
+  ],
+  "segment": [
+   "tier2",
+   "product"
+  ],
+  "braze": [
+   "tier2",
+   "product"
+  ],
+  "pagerduty": [
+   "tier2",
+   "product"
+  ],
+  "hashicorp": [
+   "tier1",
+   "mnc"
+  ],
+  "gitlab": [
+   "tier1",
+   "mnc"
+  ],
+  "vercel": [
+   "tier2",
+   "product"
+  ],
+  "supabase": [
+   "tier2",
+   "product"
+  ],
+  "rippling": [
+   "tier2",
+   "product"
+  ],
+  "coinbase": [
+   "tier1",
+   "mnc"
+  ],
+  "openai": [
+   "tier1",
+   "mnc"
+  ],
+  "anthropic": [
+   "tier1",
+   "mnc"
+  ],
+  "gupshup": [
+   "tier2",
+   "startup"
+  ],
+  "moengage": [
+   "tier2",
+   "product"
+  ],
+  "cashfree": [
+   "tier2",
+   "startup"
+  ],
+  "bharatpe": [
+   "tier2",
+   "startup"
+  ],
+  "pine labs": [
+   "tier2",
+   "startup"
+  ],
+  "upstox": [
+   "tier2",
+   "startup"
+  ],
+  "smallcase": [
+   "tier2",
+   "startup"
+  ],
+  "angel one": [
+   "tier2",
+   "startup"
+  ],
+  "biocon": [
+   "tier2",
+   "product"
+  ],
+  "hasura": [
+   "tier2",
+   "product"
+  ],
+  "druva": [
+   "tier2",
+   "product"
+  ],
+  "unacademy": [
+   "tier2",
+   "startup"
+  ],
+  "udaan": [
+   "tier2",
+   "startup"
+  ]
+ }
+}
